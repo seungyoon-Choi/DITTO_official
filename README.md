@@ -2,7 +2,7 @@
 
 ## Introduction
 Implementation of **Dynamic Time-aware Continual User Representation Learning**.  
-Continual user representation learning method in a practical scenario. The key idea is transfer learning for both forward/backward directions to prevent catastrophic forgetting while allowing the previous knowledge to adapt to the current data distribution.
+Continual user representation learning method in a practical scenario. The key idea is to transfer knowledge in both forward/backward directions to prevent catastrophic forgetting while allowing the previous knowledge to adapt to the current data distribution.
 
 
 ## Basics
