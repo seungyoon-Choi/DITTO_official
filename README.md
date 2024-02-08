@@ -2,8 +2,7 @@
 
 ## Introduction
 Implementation of **Dynamic Time-aware Continual User Representation Learning**  
-
-Continual learning method with replay approach on graph structured data. The structure learning framework and experience replay approach were used to prevent catastrophic forgetting.  
+Continual user representation learning method in a practical scenario. The key idea is transfer learning for both forward/backward directions to prevent catastrophic forgetting while allowing the previous knowledge to adapt to the current data distribution.
 
 
 ## Basics
