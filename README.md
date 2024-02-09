@@ -6,8 +6,9 @@ Continual user representation learning method in a practical scenario. The key i
 
 
 ## Basics
-1. The main train code is in `train_ditto.py`.
-2. The inference code is in `inference_past_tasks_update.py`.
+1. The train code for $T_1$ is in `train_task1.py`.
+2. The main train code for $T_{2:i}$ is in `train_ditto.py`.
+3. The inference code is in `inference_past_tasks_update.py`.
 
 
 ## Dataset
