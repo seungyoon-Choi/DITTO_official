@@ -56,3 +56,4 @@ Specifically, when training the model on Task 1, `data_loader` generates the `in
 - The source code of the backbone network is referenced from:
   - https://github.com/yuangh-x/2022-NIPS-Tenrec
   - https://github.com/syiswell/NextItNet-Pytorch
+  - https://github.com/Sein-Kim/TERACON
