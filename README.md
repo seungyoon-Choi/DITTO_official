@@ -1,4 +1,4 @@
-# Dynamic Time-aware Continual User Representation Learning
+# [SIGIR'25] Dynamic Time-aware Continual User Representation Learning
 
 ## Introduction
 Implementation of **Dynamic Time-aware Continual User Representation Learning**.  
